@@ -1,0 +1,15 @@
+[submodule "2021-2/AcesEngine"]
+	path = 2021-2/AcesEngine
+	url = git@github.com:dantros/AcesEngine.git
+[submodule "2021-2/folk-engine"]
+	path = 2021-2/folk-engine
+	url = git@github.com:dantros/folk-engine.git
+[submodule "2021-2\\CraftEngine"]
+	path = 2021-2/CraftEngine
+	url = git@github.com:dantros/CraftEngine.git
+[submodule "2021-2/FlukyEngine"]
+	path = 2021-2/FlukyEngine
+	url = git@github.com:dantros/FlukyEngine.git
+[submodule "2021-2/caveEngine"]
+	path = 2021-2/caveEngine
+	url = git@github.com:dantros/caveEngine.git
