@@ -13,3 +13,6 @@
 [submodule "2021-2/caveEngine"]
 	path = 2021-2/caveEngine
 	url = git@github.com:dantros/caveEngine.git
+[submodule "2021-2/alpha_engine"]
+	path = 2021-2/alpha_engine
+	url = git@github.com:dantros/alpha_engine.git
