@@ -4,7 +4,7 @@
 [submodule "2021-2/folk-engine"]
 	path = 2021-2/folk-engine
 	url = git@github.com:dantros/folk-engine.git
-[submodule "2021-2\\CraftEngine"]
+[submodule "2021-2/CraftEngine"]
 	path = 2021-2/CraftEngine
 	url = git@github.com:dantros/CraftEngine.git
 [submodule "2021-2/FlukyEngine"]
